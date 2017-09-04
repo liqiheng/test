@@ -1,0 +1,186 @@
+nav {
+	display: inline-block;
+	position: absolute;
+	left: 540px;
+	top: 21px;
+	font-size: 10px;
+	word-spacing: 15px;
+	letter-spacing: 2px;
+}
+
+.lo {
+	position: absolute;
+	left: 220px;
+	top: 19px;
+}
+
+span.la {
+	position: absolute;
+	left: 380px;
+	top: 19px;
+}
+
+nav a:link {
+	text-decoration: none;
+}
+
+header {
+	height: 60px;
+	position: relative;
+}
+
+section {
+	height: 600px;
+	background-color: rgb(231, 230, 232);
+}
+
+.oo {
+	margin-left: 170px;
+}
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.lp {
+	width: 339px;
+	height: 409px;
+	position: absolute;
+	right: 200px;
+	top: 157px;
+	background: white;
+	box-shadow: 0px 0px 5px gray;
+	display: none;
+}
+
+.pp {
+	width: 339px;
+	height: 409px;
+	position: absolute;
+	right: 200px;
+	top: 157px;
+	background: white;
+	box-shadow: 0px 0px 5px gray;
+	
+}
+
+.ll {
+	width: 168px;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	float: left;
+	border-right: 1px gainsboro solid;
+	background: linear-gradient(rgb( 230, 254, 255), #FFFFFF);
+	display: inline-block;
+}
+
+.li {
+	width: 168px;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	display: inline-block;
+	background: linear-gradient(rgb( 230, 254, 255), #FFFFFF);
+}
+
+.m {
+	font-size: 20px;
+	line-height: 50px;
+	position: absolute;
+	left: 40px;
+	top: 80px;
+}
+
+.no {
+	margin-left: 100px;
+	margin-top: 80px;
+}
+
+.mm {
+	margin-left: 40px;
+	margin-top: 20px;
+}
+
+.po {
+	margin-left: 40px;
+	margin-top: 20px;
+}
+
+.io {
+	margin-left: 40px;
+	margin-top: 30px;
+}
+
+.yu {
+	margin-left: 40px;
+	margin-top: 40px;
+	display: inline-block;
+}
+
+.ff {
+	margin-left: 40px;
+	margin-top: 40px;
+	display: inline-block;
+}
+
+.bn {
+	width: 60px;
+	height: 30px;
+	position: absolute;
+	left: 60px;
+	top: 230px;
+	background: aquamarine;
+}
+
+.ee {
+	width: 60px;
+	height: 30px;
+	position: absolute;
+	right: 100px;
+	top: 230px;
+	background: linear-gradient(rgb( 230, 254, 255), #FFFFFF);
+}
+
+.kk {
+	margin-left: 10px;
+	margin-top: 20px;
+	position: absolute;
+	left: 20px;
+	top: 270px;
+}
+
+.jj {
+	margin-left: 20px;
+	margin-top: 20px;
+	position: absolute;
+	right: 20px;
+	top: 270px;
+}
+
+cc {
+	height: 65px;
+	margin: 0 auto;
+}
+
+#cc {
+	width: 1000px;
+	height: 63px;
+	margin-left: 222px;
+	color: #848585;
+	position: relative;
+}
+
+.Logo {
+	position: absolute;
+	top: 10px;
+}
+
+.vv {
+	display: inline-block;
+	position: absolute;
+	left: 161px;
+	top: 20px;
+}
+
