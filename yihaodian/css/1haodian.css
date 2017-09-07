@@ -1,0 +1,175 @@
+.tou0 {
+	top: 0px;
+	left: 0px;
+	width: 1364px;
+	height: 80px;
+	position: absolute;
+	background: white;
+	box-shadow: 0px 0px 5px gray;
+}
+
+section {
+	height: 530px;
+	background: white;
+}
+
+.tou1 {
+	position: absolute;
+	left: 100px;
+	top: 20px;
+}
+
+.tou2 {
+	position: absolute;
+	left: 900px;
+	top: 20px;
+	font-size: 15px;
+}
+
+.tou3 {
+	position: absolute;
+	margin-left: 100px;
+	margin-top: 120px;
+}
+
+a:hover {
+	color: red;
+}
+
+.tou4 {
+	position: absolute;
+	left: 1160px;
+	top: 20px;
+}
+
+.tou5 {
+	background: white;
+	position: absolute;
+	width: 380px;
+	height: 420px;
+	left: 750px;
+	top: 110px;
+	display: inline-block;
+}
+
+.tou6 {
+	font-size: 15px;
+	margin-left: 30px;
+	margin-top: 50px;
+	display: inline-block;
+}
+
+.tou7 {
+	font-size: 10px;
+	margin-left: 150px;
+	margin-top: 50px;
+	display: inline-block;
+}
+
+.tou9 {
+	font-size: 3px;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+
+.tou10 {
+	font-size: 3px;
+	margin-left: 180px;
+}
+
+.tou11 {
+	background: red;
+	width: 310px;
+	height: 55px;
+	opacity: 0.8;
+	font-size: 20px;
+	color: white;
+	line-height: 40px;
+	margin-top: 15px;
+	margin-left: 30px;
+	border: none;
+	text-align: center;
+}
+
+.tou12 {
+	font-size: 12px;
+	margin-left: 30px;
+	line-height: 30px;
+}
+
+.tou13 {
+	margin-left: -10px;
+	margin-top: 0px;
+}
+
+li img {
+	width: 40px;
+	height: 40px;
+}
+
+.tou13 li {
+	display: inline-block;
+	list-style: none;
+	margin-right: 10px;
+}
+
+#tou14 {
+	text-align: center;
+	font-size: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: blue;
+}
+
+.tou8 {
+	height: 43px;
+	width: 310px;
+	border: 1px gainsboro solid;
+	line-height: 40px;
+	margin-left: 28px;
+	margin-top: 25px;
+}
+
+.tou8>img {
+	vertical-align: middle;
+	margin-left: 15px;
+}
+
+.tou8 input {
+	margin-left: 15px;
+	width: 220px;
+	border: none;
+	outline: none;
+}
+
+.tou15 {
+	height: 43px;
+	width: 310px;
+	border: 1px gainsboro solid;
+	line-height: 40px;
+	margin-left: 28px;
+	margin-top: 25px;
+}
+
+.tou15>img {
+	vertical-align: middle;
+	margin-left: 15px;
+}
+
+.tou15 input {
+	margin-left: 15px;
+	width: 220px;
+	border: none;
+	outline: none;
+}
+.tou16{
+	margin-left:260px;
+	font-size: 1px;
+}
+.tou17{
+	margin-left: 1140px;
+	margin-top: 23px;
+	
+}
